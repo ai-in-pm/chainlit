@@ -55,7 +55,7 @@
     "@vitejs/plugin-react-swc": "^3.3.2",
     "storybook": "^7.6.7",
     "typescript": "^5.2.2",
-    "vite": "^4.4.9",
+    "vite": "^4.5.11",
     "vite-plugin-svgr": "^4.2.0",
     "vite-tsconfig-paths": "^4.2.0"
   }
